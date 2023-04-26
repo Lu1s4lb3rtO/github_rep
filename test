@@ -1,1 +1,5 @@
 documento salvado
+git init 
+git add .
+git push
+git commit -am "comandos de git,en el archivo test"
